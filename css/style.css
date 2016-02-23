@@ -4,3 +4,34 @@
 .chart {
   height: 500px;
 }
+
+.year {
+  font-size: 12px;
+  margin:0;
+  margin-top: 5px;
+}
+
+
+.bar {
+  height:2px;
+  background-color:#ddd;
+  margin-top:-5px;
+}
+
+.circle {
+  width: 10px;
+	height: 10px;
+	background: #F2594B;
+  border: 2px solid #F8C0B4;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+  margin-top:-6px;
+	border-radius: 5px;
+}
+
+.pct {
+  color:#636363;
+  font-size: 12px;
+  margin:0px;
+  margin-top: -12px;
+}
