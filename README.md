@@ -1,4 +1,4 @@
-web-app-template-simple
-=======================
+Intro-to-News-Apps-Spring-2016
+Simple Jquery lollipop chart
 
-A simple web app template with jQuery, and Bootstrap.  | Mizzou Workshop - Oct. 2014
+
